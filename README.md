@@ -6,6 +6,12 @@ A modern, interactive travel packing list application built with React and TypeS
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue?logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-7.1.0-purple?logo=vite)
 
+## 🌐 Live Demo
+
+**[Try the live application →](https://travel-packing-list-gamma.vercel.app/)**
+
+Experience the app in action! The demo is fully functional and showcases all features including adding items, marking them as packed, sorting, and tracking your packing progress.
+
 ## ✨ Features
 
 - **📝 Add Items**: Easily add items with customizable quantities (1-20)
